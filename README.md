@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A passionate Data Scientist student from Spain</h3>
 
-- 🌱 I’m currently learning **Data Science, Fintech and Business Analysis**
+- 🌱 I’m currently learning **Data Science and Business Analysis**
 
 - ⚡ Fun fact **Have a healthy and balanced life!**
 
